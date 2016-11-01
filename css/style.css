@@ -1,0 +1,24 @@
+
+ .nav{
+   background-color:black;
+   background-image: none;
+   background-repeat: no-repeat;
+   font-family: "Times New Roman", Times, serif;
+   font-size: 40px;
+  }
+
+
+  {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+ }
+
+ .img-container{
+   min-height: 695px;
+   background-image: url("C:/project/images/redbarnfoodcowithoutnav.jpg");
+   background-repeat: no-repeat;
+   background-size: 1500 695;
+   background-position: center top;
+   /*padding: 40px; (If don't want to set min-height or some image content is there) */
+ }
