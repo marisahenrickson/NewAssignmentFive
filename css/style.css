@@ -23,7 +23,22 @@
    /*padding: 40px; (If don't want to set min-height or some image content is there) */
  }
 
- .h1{
+ .font{
      font-family: "Times New Roman", Times, serif;
-     font-size: 40px;
+ }
+
+
+
+ .row-centered {
+     text-align:center;
+ }
+ .col-centered {
+     display:inline-block;
+     float:none;
+     text-align:center;;
+     margin-right:-4px;
+ }
+
+ p {
+     padding-bottom: 2cm;
  }
