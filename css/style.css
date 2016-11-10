@@ -31,6 +31,7 @@
 
  .row-centered {
      text-align:center;
+     padding-bottom: 40px
  }
  .col-centered {
      display:inline-block;
