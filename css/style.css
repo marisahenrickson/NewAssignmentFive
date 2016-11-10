@@ -38,3 +38,13 @@
      text-align:center;;
      margin-right:-4px;
  }
+
+
+.spacing {
+  padding-top: 40px;
+  padding-bottom: 120px;
+}
+
+.rowspacing {
+  padding-bottom: 40px;
+}
