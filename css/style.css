@@ -15,7 +15,7 @@
  }
 
  .img-container{
-   min-height: 695px;
+   min-height: 535px;
    background-image: url("../images/redbarnfoodcowithoutnav.jpg");
    background-repeat: no-repeat;
    background-size: 1500 695;
@@ -42,10 +42,18 @@
 
 
 .spacing {
-  padding-top: 40px;
-  padding-bottom: 120px;
+  padding-bottom: 40px;
 }
 
-.rowspacing {
-  padding-bottom: 40px;
+.topspacing {
+  padding-top: 20px
+}
+
+.h-divider{
+ margin-top:5px;
+ margin-bottom:5px;
+ height:1px;
+ width:100%;
+ border-top:1px solid gray;
+ padding-bottom:40px
 }
